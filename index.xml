@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>extra thicc</title>
+    <link>/</link>
+    <description>Recent content on extra thicc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2019 20:15:10 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 27 May 2019 20:15:10 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi! I&amp;rsquo;m Tino and this is my collection of things that are extra thicc. (Not to be taken seriously&amp;hellip;)
+ </description>
+    </item>
+    
+    <item>
+      <title>M87 black hole</title>
+      <link>/posts/m87/</link>
+      <pubDate>Mon, 27 May 2019 18:34:27 +0200</pubDate>
+      
+      <guid>/posts/m87/</guid>
+      <description>The supermassive black hole in the center of galaxy M87. Arguably the thiccest of all things.
+Credit: Event Horizon Telescope Collaboration</description>
+    </item>
+    
+  </channel>
+</rss>
