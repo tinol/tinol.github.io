@@ -1,0 +1,39 @@
+.meta {
+  margin-top: .2em;
+  margin-bottom: 1.5em;
+}
+
+.bright {
+  box-shadow: 0 0 .6em #3c3c3c0f;
+  border-bottom: 1px solid #9494941f;
+}
+@media (prefers-color-scheme: light) {
+  .dark {
+    background-color: #fff8;
+    box-shadow: 0 0 .6em #3c3c3c0f;
+    border-bottom: 1px solid #9494941f;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .dark {
+    background-color: #0004;
+    color: #fff;
+    border-bottom: 1px solid #fff3;
+  }
+}
+
+.archive li {
+  padding: .3em 0;
+}
+
+.archive a {
+  font-size: 1.1em;
+}
+
+.archive time {
+  display: inline-block;
+  font-size: 1.05em;
+  width: 6em;
+  margin: 0 .25em;
+}

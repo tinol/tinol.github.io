@@ -1,37 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2019-05-27T20:15:10+02:00</lastmod>
+    <loc>https://thicc.de/posts/blaubeermuffins/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-05-27T20:15:10+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://thicc.de/categories/</loc>
   </url>
   
   <url>
-    <loc>/posts/m87/</loc>
-    <lastmod>2019-05-27T18:34:27+02:00</lastmod>
+    <loc>https://thicc.de/</loc>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-05-27T18:34:27+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://thicc.de/posts/ginger-beer/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>https://thicc.de/posts/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
+    <loc>https://thicc.de/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thicc.de/posts/hot-sauce/</loc>
   </url>
   
 </urlset>
